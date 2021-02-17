@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite tests="3" failures="1" name="no.hvl.dat251.RunCucumberTest" time="0.18" errors="0" skipped="0">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="java.vm.version" value="14.0.2+12-46"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-14.0.2\bin"/>
+    <property name="user.country.format" value="NO"/>
+    <property name="maven.multiModuleProjectDirectory" value="C:\Users\Jarek\eclipse-workspace\hello-cucumber"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="path.separator" value=";"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="US"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="C:\Users\Jarek\eclipse-workspace\hello-cucumber"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="java.runtime.version" value="14.0.2+12-46"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="C:\Users\Jarek\AppData\Local\Temp\"/>
+    <property name="line.separator" value="
+"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="classworlds.conf" value="C:\Users\Jarek\eclipse-workspace\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf14485351097255162079.tmp"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-14.0.2\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Program Files/Java/jdk-14.0.2/bin/server;C:/Program Files/Java/jdk-14.0.2/bin;C:\Program Files\Java\jdk-14.0.2\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\iCLS\;C:\Program Files\Intel\Intel(R) Management Engine Components\iCLS\;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;D:\Programs\MatLab\R2018a\runtime\win64;D:\Programs\MatLab\R2018a\bin;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Users\Jarek\AppData\Local\Programs\Python\Python38;C:\Users\Jarek\AppData\Local\Programs\Python\Python38\Scripts;C:\Users\Jarek\AppData\Local\Chrome\;C:\ProgramData\chocolatey\bin;C:\xampp\mysql\bin;C:\Program Files\PostgreSQL\12\bin;D:\Programs\Apache\db-derby-10.15.2.0-bin\lib;E:\Szkola\MAMN-PROG\DAT250\apache-maven-3.6.3\bin;D:\Programs\MongoDB\Server\4.4\bin;D:\Programs\spring-2.3.3.RELEASE\bin;C:\Program Files\nodejs\;C:\Program Files\RabbitMQ Server\rabbitmq_server-3.8.5\sbin;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\Jarek\AppData\Roaming\local\bin;C:\Users\Jarek\AppData\Local\Programs\Python\Python38\Scripts\;C:\Users\Jarek\AppData\Local\Programs\Python\Python38\;C:\Users\Jarek\AppData\Local\Microsoft\WindowsApps;D:\Programs\MiKTeX\miktex\bin\x64\;C:\Users\Jarek\AppData\Roaming\Dashlane\6.1907.0.17833\bin\Firefox_Extension\{442718d9-475e-452a-b3e1-fb1ee16b8e9f}\components;C:\Users\Jarek\AppData\Roaming\Dashlane\6.1907.0.17833\ucrt;C:\Users\Jarek\AppData\Roaming\Dashlane\6.1907.0.17833\bin\Qt;C:\Users\Jarek\AppData\Roaming\Dashlane\6.1907.0.17833\bin\Ssl;C:\Program Files\heroku\bin;C:\Users\Jarek\AppData\Roaming\npm;C:\Users\Jarek\AppData\Roaming\cabal\bin;;C:\Users\Jarek\AppData\Local\Programs\Microsoft VS Code\bin;C:\tools\msys64;C:\ProgramData\chocolatey\lib\ghc\tools\ghc-8.10.3\bin;;D:\Programs\eclipse;;."/>
+    <property name="jdk.debug" value="release"/>
+    <property name="java.class.version" value="58.0"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="10.0"/>
+    <property name="user.home" value="C:\Users\Jarek"/>
+    <property name="user.timezone" value="Europe/Oslo"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.specification.version" value="14"/>
+    <property name="user.name" value="Jarek"/>
+    <property name="java.class.path" value="D:\Programs\eclipse\plugins\org.eclipse.m2e.maven.runtime_1.16.0.20200610-1735\jars\plexus-classworlds-2.6.0.jar"/>
+    <property name="java.vm.specification.version" value="14"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -B test"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-14.0.2"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.language.format" value="no"/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.version" value="14.0.2"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="C:\Users\Jarek\eclipse-workspace\hello-cucumber\EMBEDDED"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.version.date" value="2020-07-14"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase classname="Splitte et navn i fornavn og etternavn" name="Ett fornavn og ett etternavn" time="0.161"/>
+  <testcase classname="Splitte et navn i fornavn og etternavn" name="Ett fornavn og ett etternavn" time="0.004"/>
+  <testcase classname="Splitte et navn i fornavn og etternavn" name="Ett fornavn og ett etternavn" time="0.015">
+    <failure message="expected: &lt;Per Per&gt; but was: &lt;Per&gt;" type="org.opentest4j.AssertionFailedError">org.opentest4j.AssertionFailedError: expected: &lt;Per Per&gt; but was: &lt;Per&gt;
+	at org.junit.jupiter.api.AssertionUtils.fail(AssertionUtils.java:55)
+	at org.junit.jupiter.api.AssertionUtils.failNotEqual(AssertionUtils.java:62)
+	at org.junit.jupiter.api.AssertEquals.assertEquals(AssertEquals.java:182)
+	at org.junit.jupiter.api.AssertEquals.assertEquals(AssertEquals.java:177)
+	at org.junit.jupiter.api.Assertions.assertEquals(Assertions.java:1124)
+	at no.hvl.dat251.SplittingNamesSteps.fornavnet_blir(SplittingNamesSteps.java:24)
+	at ✽.Fornavnet blir &quot;Per Per&quot;(classpath:no/hvl/dat251/splitting_names_tabs.feature:8)
+</failure>
+    <system-out>
+Scenario Outline: Ett fornavn og ett etternavn &amp;#27;[90m# no/hvl/dat251/splitting_names_tabs.feature:15&amp;#27;[0m
+  &amp;#27;[32mGiven &amp;#27;[0m&amp;#27;[32mNavnet er &amp;#27;[0m&amp;#27;[32m&amp;#27;[1m&quot;Per Per Os&quot;&amp;#27;[0m                 &amp;#27;[90m# no.hvl.dat251.SplittingNamesSteps.navnet_er(java.lang.String)&amp;#27;[0m
+  &amp;#27;[32mWhen &amp;#27;[0m&amp;#27;[32mVi splitter navnet&amp;#27;[0m                      &amp;#27;[90m# no.hvl.dat251.SplittingNamesSteps.vi_splitter_navnet()&amp;#27;[0m
+  &amp;#27;[31mThen &amp;#27;[0m&amp;#27;[31mFornavnet blir &amp;#27;[0m&amp;#27;[31m&amp;#27;[1m&quot;Per Per&quot;&amp;#27;[0m                &amp;#27;[90m# no.hvl.dat251.SplittingNamesSteps.fornavnet_blir(java.lang.String)&amp;#27;[0m
+      &amp;#27;[31morg.opentest4j.AssertionFailedError: expected: &lt;Per Per&gt; but was: &lt;Per&gt;
+	at org.junit.jupiter.api.AssertionUtils.fail(AssertionUtils.java:55)
+	at org.junit.jupiter.api.AssertionUtils.failNotEqual(AssertionUtils.java:62)
+	at org.junit.jupiter.api.AssertEquals.assertEquals(AssertEquals.java:182)
+	at org.junit.jupiter.api.AssertEquals.assertEquals(AssertEquals.java:177)
+	at org.junit.jupiter.api.Assertions.assertEquals(Assertions.java:1124)
+	at no.hvl.dat251.SplittingNamesSteps.fornavnet_blir(SplittingNamesSteps.java:24)
+	at ?.Fornavnet blir &quot;Per Per&quot;(classpath:no/hvl/dat251/splitting_names_tabs.feature:8)
+&amp;#27;[0m
+  &amp;#27;[36mAnd &amp;#27;[0m&amp;#27;[36mEtternavnet blir &amp;#27;[0m&amp;#27;[36m&amp;#27;[1m&quot;Os&quot;&amp;#27;[0m                    &amp;#27;[90m# no.hvl.dat251.SplittingNamesSteps.etternavnet_blir(java.lang.String)&amp;#27;[0m
+</system-out>
+  </testcase>
+</testsuite>
